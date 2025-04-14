@@ -11,3 +11,6 @@
 **Texto en negrita** o __Texto en negrita__  
 ~~Texto tachado~~
 `Texto en monospace`
+1. Primer ítem
+2. Segundo ítem
+3. Tercer ítem
