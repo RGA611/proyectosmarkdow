@@ -45,4 +45,17 @@
 | Julio      | 31   | Barcelona  |
 | Gema       | 29   | Valencia   |
 | Salva      | 39   | Valencia   |
+BLOQUES DE CODIGO 
+'''JAVA
+public class EstructuraRepetitivaFor1 {
+    public static void main(String[] ar) {
+        int f;
+        for(f=1;f<=100;f++) {
+            System.out.print(f);
+            System.out.print("-");
+        }
+    }
+}
+
+
 
