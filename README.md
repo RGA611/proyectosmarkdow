@@ -76,7 +76,15 @@ public class EstructuraRepetitivaFor1 {
 
 > [!CAUTION]
 > Consecuencias potenciales negativas de una acción.
+> 
+![supermario](https://github.com/user-attachments/assets/1caf323f-f9f0-4175-b09a-f039612aa930)
+ 
 
+<!-- enlace de una imagen externa -->
+![Sonic](https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png)
+
+<!-- usar HTML -->
+<img src="https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png" alt="Imagen" width="100"/>
 
 
 
