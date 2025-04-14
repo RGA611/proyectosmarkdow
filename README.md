@@ -38,3 +38,11 @@
 
 <!-- usar HTML -->
 <img src="https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png"
+##TABLAS
+| Nombre     | Edad | Ciudad     |
+|------------|------|------------|
+| Emiliano   | 43   | Teruel     |
+| Julio      | 31   | Barcelona  |
+| Gema       | 29   | Valencia   |
+| Salva      | 39   | Valencia   |
+
